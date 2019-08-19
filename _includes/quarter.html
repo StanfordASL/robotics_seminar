@@ -1,0 +1,32 @@
+<h2 class="quarter-header">Schedule {{ quarter.quarter }}</h2>
+<table class="quarter-table">
+  <tr>
+    <th>Date</th>
+    <th>Guest</th>
+    <th>Affiliation</th>
+    <th>Title</th>
+    <th>Location</th>
+    <th>Time</th>
+  </tr>
+  {% assign sorted_talks = (site.talks | sort: 'date') %}
+  {% for talk in sorted_talks %}
+    {% if talk.date >= quarter.start and talk.date <= quarter.end %}
+      <tr class="talk-header">
+        <td><small>{{ talk.date | date: "%a, %b %d" }}</small></td>
+        <td class="talk-speaker"><a href="{{ talk.website }}">{{ talk.speaker }}</a></td>
+        <td><small>{{ talk.affiliation }}</small></td>
+        <td><a class="talk-title-link" href="javascript:void(0)">{{ talk.title }} <i class="fas fa-angle-down"></i></a></td>
+        <td><small>{{ talk.location }}</small></td>
+        <td><small>{{ talk.date | date: "%l:%M%p" }}</small></td>
+      </tr>
+      <tr class="talk-abstract">
+        <td class="talk-abstract-content" colspan="6">
+          <strong>Abstract</strong>
+          <p>
+          {{ talk.abstract }}
+          </p>
+        </td>
+      </tr>
+    {% endif %}
+  {% endfor %}
+</table>

@@ -1,0 +1,56 @@
+---
+---
+$fa-font-path: "fonts/font-awesome/";
+@import 'font-awesome';
+
+@import "minima";
+
+.wrapper {
+  max-width: calc(1000px - (30px * 2));
+}
+
+.site-title-logo {
+  max-width: 50px;
+  float: left;
+  padding: 15px;
+}
+
+.site-header .wrapper {
+  vertical-align: bottom;
+  position: relative;
+}
+
+.site-title {
+  position: absolute;
+  bottom: 0;
+}
+
+.site-nav {
+  position: absolute;
+  bottom: 0;
+  right: 30px;
+}
+
+.talk-abstract {
+
+}
+
+.talk-abstract-content {
+  padding-top: 20px;
+}
+
+.quarter-table {
+  margin-bottom: 50px;
+}
+
+.quarter-header {
+  // font-family: 'Source Sans Pro', sans-serif;
+}
+
+.talk-abstract-content > p {
+  text-align: justify;
+}
+
+.talk-speaker {
+  min-width: 150px;
+}
