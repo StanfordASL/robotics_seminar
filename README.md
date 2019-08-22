@@ -10,7 +10,7 @@ This is the codebase for the Stanford Robotics Seminar website. Most things shou
 - Update the following options in `_config.yml` as needed: `displayed-quarters`,`archived-quarters`,`current-syllabus`
 
 ## Adding a talk
-To add a talk, just add a new file ending in `.md` in the folder `_talks`. Look at other files for an example, but the new talk should have the following fields: 
+To add a talk, just add a new file ending in `.md` in the folder `_talks`. Look at other files for an example, but the new talk should have the following fields:
 
     ---
     speaker: First Last
@@ -22,7 +22,7 @@ To add a talk, just add a new file ending in `.md` in the folder `_talks`. Look 
     title: "Talk: Title"
     abstract: "The abstract goes here"
     ---
-    
+
 Make sure that fileds containing special characters like ":" are inside quotations like in the example above. The date is in YYYY-MM-DDTHH:MM::SS-0800 format (the last part is the time and -0800 corresponds to the PST time zone).
 
 ## Quarters
@@ -38,10 +38,13 @@ You can update the syllabus by droping the pdf in `assets/doc/Your_Syllabus.pdf`
 The whole website was developed using [Jekyl](https://jekyllrb.com/) with the default *minima* theme. Follow the instructions on the Jekyll website to develop more. You can run the website locally by cloning this repo, installing Jekyll and Bundler
 
     gem install jekyll bundler
-    
+
 and then compiling it
 
     bundle exec jekyll serve
-    
+
 ## Hosting
-To Do
+TO DO
+
+## Old Website
+The old website can be found [here](https://github.com/StanfordASL/robotics_seminar_archive)
