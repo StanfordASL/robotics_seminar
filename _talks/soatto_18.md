@@ -1,0 +1,10 @@
+---
+speaker: Stefano Soatto
+affiliation: UCLA
+website: "http://web.cs.ucla.edu/~soatto/"
+date: 2018-05-25T11:00:00-0800
+location: Jordan Hall 040
+location-url: "https://campus-map.stanford.edu/?id=01-420&lat=37.42865133749201&lng=-122.17121865473717&zoom=17"
+title: The Information Knot Tying Sensing and Control and the Emergence Theory of Deep Representation Learning
+abstract: "Internal representations of the physical environment, inferred from sensory data, are believed to be crucial for interaction with it, but until recently lacked sound theoretical foundations. Indeed, some of the practices for high-dimensional sensor streams like imagery seemed to contravene basic principles of Information Theory: Are there non-trivial functions of past data that ‘summarize’ the ‘information’ it contains that is relevant to decision and control tasks? What ‘state’ of the world should an autonomous system maintain? How would such a state be inferred? What properties should it have? Is there some kind of ‘separation principle’, whereby a statistic (the state) of all past data is sufficient for control and decision tasks? I will start from defining an optimal representation as a (stochastic) function of past data that is sufficient (as good as the data) for a given task, has minimal (information) complexity, and is invariant to nuisance factors affecting the data but irrelevant for a task. Such minimal sufficient invariants, if computable, would be an ideal representation of the given data for the given task. I will then show that these criteria can be formalized into a variational optimization problem via the Information Bottleneck Lagrangian, and minimized with respect to a universal approximant class of function realized by deep neural networks. I will then specialize this program for control tasks, and show that it is possible to define and compute a ‘state’ that separates past data from future tasks, and has all the desirable properties that generalize the state of dynamical models customary in linear control systems, except for being highly non-linear and having high-dimension (in the millions)."
+---

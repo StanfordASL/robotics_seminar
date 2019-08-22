@@ -6,7 +6,7 @@ $fa-font-path: "fonts/font-awesome/";
 @import "minima";
 
 .wrapper {
-  max-width: calc(1000px - (30px * 2));
+  max-width: calc(1200px - (30px * 2));
 }
 
 .site-title-logo {
@@ -53,4 +53,8 @@ $fa-font-path: "fonts/font-awesome/";
 
 .talk-speaker {
   min-width: 150px;
+}
+
+.talk-date {
+  min-width: 80px;
 }

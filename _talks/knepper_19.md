@@ -1,10 +1,10 @@
 ---
-speaker: Jane Doe
-affiliation: Stanford University
+speaker: Ross Knepper
+affiliation: Cornell University
 website: "https://www.cs.cornell.edu/~rak/"
-date: 2020-02-22T11:00:00-0800
+date: 2019-04-12T11:00:00-0800
 location: McCullough 115
-location-url: http://example.com
+location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: Formalizing Teamwork in Human-Robot Interaction
 abstract: "Robots out in the world today work for people but not with people. Before robots can work closely with ordinary people as part of a human-robot team in a home or office setting, robots need the ability to acquire a new mix of functional and social skills. Working with people requires a shared understanding of the task, capabilities, intentions, and background knowledge. For robots to act jointly as part of a team with people, they must engage in collaborative planning, which involves forming a consensus through an exchange of information about goals, capabilities, and partial plans. Often, much of this information is conveyed through implicit communication.
 

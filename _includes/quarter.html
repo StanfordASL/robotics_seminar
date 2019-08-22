@@ -12,7 +12,7 @@
   {% for talk in sorted_talks %}
     {% if talk.date >= quarter.start and talk.date <= quarter.end %}
       <tr class="talk-header">
-        <td><small>{{ talk.date | date: "%a, %b %d" }}</small></td>
+        <td class="talk-date"><small>{{ talk.date | date: "%a, %b %d" }}</small></td>
         <td class="talk-speaker"><a href="{{ talk.website }}">{{ talk.speaker }}</a></td>
         <td><small>{{ talk.affiliation }}</small></td>
         <td><a class="talk-title-link" href="javascript:void(0)">{{ talk.title }} <i class="fas fa-angle-down"></i></a></td>
