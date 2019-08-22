@@ -1,8 +1,5 @@
 ---
 ---
-$fa-font-path: "fonts/font-awesome/";
-@import 'font-awesome';
-
 @import "minima";
 
 .wrapper {
@@ -76,4 +73,43 @@ $fa-font-path: "fonts/font-awesome/";
   border-radius: 100px;
   border: 3px solid #FFF;
   box-shadow: 0 0 7px 0px #AAA;
+}
+
+i {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.talk-title {
+  position: relative;
+  padding-right: 35px;
+}
+
+.arrow {
+  position: absolute;
+  top: 25px;
+  right: 25px;
+  border-color: #3f3f3f;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+
+.up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
 }
