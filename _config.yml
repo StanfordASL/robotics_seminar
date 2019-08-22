@@ -25,5 +25,7 @@ archived-quarters:
 gems:
   - jekyll-font-awesome-sass
 
+current-syllabus: "Syllabus_AA289_sp2019.pdf"
+
 font-awesome:
   assets: true

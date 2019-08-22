@@ -58,3 +58,22 @@ $fa-font-path: "fonts/font-awesome/";
 .talk-date {
   min-width: 80px;
 }
+
+.profile-row {
+  margin-bottom: 40px;
+}
+
+.profile {
+  text-align: center;
+  display: inline-block;
+  margin-right: 50px;
+}
+
+.profile-pic {
+  width: 160px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 100px;
+  border: 3px solid #FFF;
+  box-shadow: 0 0 7px 0px #AAA;
+}
