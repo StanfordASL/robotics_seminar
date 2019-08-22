@@ -11,6 +11,14 @@ plugins:
 collections:
   - talks
 
+gems:
+  - jekyll-font-awesome-sass
+
+font-awesome:
+  assets: true
+
+### Below are options you are likely to modify ###
+
 displayed-quarters:
   - Spring 2019
 
@@ -22,10 +30,6 @@ archived-quarters:
   - Winter 2019
   - Spring 2019
 
-gems:
-  - jekyll-font-awesome-sass
-
 current-syllabus: "Syllabus_AA289_sp2019.pdf"
 
-font-awesome:
-  assets: true
+##########
