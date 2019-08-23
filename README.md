@@ -44,7 +44,10 @@ and then compiling it
     bundle exec jekyll serve
 
 ## Hosting
-TO DO
+The website is hosted directly on github via github pages. The hostname `robotics.stanford.edu/seminar/` is managed by the CS department and simply redirects to `stanfordasl.github.io/robotics_seminar/`. Our point of contact in the CS Computer Facilities is Jimmy Wu.
+
+    Jimmy Wu - jimmyw@cs.stanford.edu
+    Computer Science Department - Computer Facilities
 
 ## Old Website
 The old website can be found [here](https://github.com/StanfordASL/robotics_seminar_archive)
