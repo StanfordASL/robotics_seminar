@@ -2,7 +2,7 @@
 speaker: Byron Boots
 affiliation: Georgia Tech
 website: "https://www.cc.gatech.edu/~bboots3/"
-date: 2018-01-19T11:00:00-0800
+date: 2018-01-19T11:00:00-0000
 location: Jordan Hall 040
 location-url: "https://campus-map.stanford.edu/?id=01-420&lat=37.42865133749201&lng=-122.17121865473717&zoom=17"
 title: Learning Perception and Control for Agile Off-Road Autonomous Driving

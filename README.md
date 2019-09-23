@@ -16,7 +16,7 @@ To add a talk, just add a new file ending in `.md` in the folder `_talks`. Look 
     speaker: First Last
     affiliation: Some University
     website: "example.com"
-    date: 2018-11-16T11:00:00-0800
+    date: 2018-11-16T11:00:00-0000
     location: Building 1
     location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
     title: "Talk: Title"

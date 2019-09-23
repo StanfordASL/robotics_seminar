@@ -2,7 +2,7 @@
 speaker: Ludovic Righetti
 affiliation: NYU
 website: "https://engineering.nyu.edu/faculty/ludovic-righetti"
-date: 2019-02-22T11:00:00-0800
+date: 2019-02-22T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: Fast computation of robust multi-contact behaviors

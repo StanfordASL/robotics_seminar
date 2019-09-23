@@ -2,7 +2,7 @@
 speaker: Aviv Tamar
 affiliation: Technion
 website: "https://people.eecs.berkeley.edu/~avivt/"
-date: 2018-11-16T11:00:00-0800
+date: 2018-11-16T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: Learning Representations for Planning

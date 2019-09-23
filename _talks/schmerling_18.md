@@ -2,7 +2,7 @@
 speaker: Edward Schmerling
 affiliation: Stanford University
 website: "http://web.stanford.edu/~schmrlng/"
-date: 2018-02-09T11:00:00-0800
+date: 2018-02-09T11:00:00-0000
 location: Jordan Hall 040
 location-url: "https://campus-map.stanford.edu/?id=01-420&lat=37.42865133749201&lng=-122.17121865473717&zoom=17"
 title: On Quantifying Uncertainty for Robot Planning and Decision Making

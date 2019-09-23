@@ -2,7 +2,7 @@
 speaker: Brian Casey
 affiliation: Stanford Law School
 website: "https://www.linkedin.com/in/bryan-casey-aaa112148/"
-date: 2018-04-27T11:00:00-0800
+date: 2018-04-27T11:00:00-0000
 location: Jordan Hall 040
 location-url: "https://campus-map.stanford.edu/?id=01-420&lat=37.42865133749201&lng=-122.17121865473717&zoom=17"
 title: "Law as Action: Profit-Driven Bias in Autonomous Vehicles"

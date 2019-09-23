@@ -2,7 +2,7 @@
 speaker: Melonee Wise
 affiliation: Fetch Robotics
 website: "http://www.meloneewise.com/"
-date: 2019-03-01T11:00:00-0800
+date: 2019-03-01T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: Taking robots to the cloud and other insights on the path to market

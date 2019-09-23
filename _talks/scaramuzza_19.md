@@ -2,7 +2,7 @@
 speaker: Davide Scaramuzza
 affiliation: University of Zurich, ETH
 website: "http://rpg.ifi.uzh.ch/people_scaramuzza.html"
-date: 2019-05-17T11:00:00-0800
+date: 2019-05-17T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: "Autonomous, Agile, Vision-controlled Drones: from Frame-based to Event-based Vision"

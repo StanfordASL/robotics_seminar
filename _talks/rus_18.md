@@ -2,7 +2,7 @@
 speaker: Daniela Rus
 affiliation: MIT
 website: "http://danielarus.csail.mit.edu/"
-date: 2018-03-16T11:00:00-0800
+date: 2018-03-16T11:00:00-0000
 location: Jordan Hall 040
 location-url: "https://campus-map.stanford.edu/?id=01-420&lat=37.42865133749201&lng=-122.17121865473717&zoom=17"
 title: Recent Advances Enabling Autonomous Transportation

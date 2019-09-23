@@ -2,7 +2,7 @@
 speaker: Michael Yip
 affiliation: UCSD
 website: "http://jacobsschool.ucsd.edu/faculty/faculty_bios/findprofile.sfe?fmp_recid=401"
-date: 2018-10-12T11:00:00-0800
+date: 2018-10-12T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: Learning Model-free Representations for Fast, Adaptive Robot Control and Motion Planning

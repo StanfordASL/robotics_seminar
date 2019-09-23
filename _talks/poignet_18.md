@@ -2,7 +2,7 @@
 speaker: Phillippe Poignet
 affiliation: LIRMM Univ Montpellier CNRS
 website: "https://scholar.google.com/citations?user=l_wm_UoAAAAJ&hl=fr"
-date: 2018-04-06T11:00:00-0800
+date: 2018-04-06T11:00:00-0000
 location: Jordan Hall 040
 location-url: "https://campus-map.stanford.edu/?id=01-420&lat=37.42865133749201&lng=-122.17121865473717&zoom=17"
 title: "Recent advances in surgical robotics: some examples through the LIRMM research activities illustrated in minimally invasive surgery and interventional radiology"

@@ -2,7 +2,7 @@
 speaker: Ben Recht
 affiliation: UC Berkeley
 website: "https://people.eecs.berkeley.edu/~brecht/"
-date: 2019-05-24T11:00:00-0800
+date: 2019-05-24T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: The Merits of Models in Continuous Reinforcement Learning

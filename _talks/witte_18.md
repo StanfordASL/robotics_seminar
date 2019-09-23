@@ -2,7 +2,7 @@
 speaker: Kirby Witte
 affiliation: CMU
 website: ""
-date: 2018-11-08T11:00:00-0800
+date: 2018-11-08T11:00:00-0000
 location: "300-300"
 location-url: "https://campus-map.stanford.edu/?id=01-300&lat=37.4260997716701&lng=-122.1699424168815&zoom=18"
 title: Assistance of Walking and Running Using Wearable Robots

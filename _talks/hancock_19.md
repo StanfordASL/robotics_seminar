@@ -2,7 +2,7 @@
 speaker: Jeff Hancock
 affiliation: Stanford University
 website: "https://comm.stanford.edu/faculty-hancock/"
-date: 2019-03-08T11:00:00-0800
+date: 2019-03-08T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: Conversation with a Robot

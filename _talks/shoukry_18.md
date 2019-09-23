@@ -2,7 +2,7 @@
 speaker: Yasser Shoukry
 affiliation: UMD
 website: "https://rcpsl.ece.umd.edu/people/yshoukry"
-date: 2018-10-19T11:00:00-0800
+date: 2018-10-19T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: "Attack-Resilient and Verifiable Autonomous Systems: A Satisfiability Modulo Convex Programming Approach"

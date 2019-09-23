@@ -2,7 +2,7 @@
 speaker: Dangxiao Wang
 affiliation: Beihang University
 website: "http://haptic.buaa.edu.cn/EN/English_team_WangDangxiao.htm"
-date: 2019-01-11T11:00:00-0800
+date: 2019-01-11T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: "Paradigm shift of haptic human-machine interaction: Historical perspective and our practice"

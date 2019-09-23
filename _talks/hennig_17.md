@@ -2,7 +2,7 @@
 speaker: Philipp Hennig
 affiliation: Max Plank Institute for Intelligent Systems
 website: "https://pn.is.tuebingen.mpg.de/person/phennig"
-date: 2017-12-04T11:00:00-0800
+date: 2017-12-04T11:00:00-0000
 location: Packard 202
 location-url: "https://campus-map.stanford.edu/?id=04-030&lat=37.42933772792975&lng=-122.17378367581972&zoom=17&srch=Packard"
 title: Probabilistic Numerics — Uncertainty in Computation

@@ -2,7 +2,7 @@
 speaker: Sylvia Herbert
 affiliation: UC Berkeley
 website: "http://sylviaherbert.com/"
-date: 2019-01-18T11:00:00-0800
+date: 2019-01-18T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: Reachability in Robotics

@@ -2,7 +2,7 @@
 speaker: Benjamin Hockman
 affiliation: Stanford University
 website: "https://asl.stanford.edu/people/ben-hockman/"
-date: 2018-04-13T11:00:00-0800
+date: 2018-04-13T11:00:00-0000
 location: Jordan Hall 040
 location-url: "https://campus-map.stanford.edu/?id=01-420&lat=37.42865133749201&lng=-122.17121865473717&zoom=17"
 title: "Hopping Rovers for Exploration of Asteroids and Comets: Design, Control, and Autonomy"

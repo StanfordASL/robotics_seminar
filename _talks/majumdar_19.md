@@ -2,7 +2,7 @@
 speaker: Anirudha Majumdar
 affiliation: Princeton University
 website: "https://irom-lab.princeton.edu/majumdar/"
-date: 2019-05-10T11:00:00-0800
+date: 2019-05-10T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: Safety Guarantees with Perception and Learning in the Loop

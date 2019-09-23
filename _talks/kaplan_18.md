@@ -2,7 +2,7 @@
 speaker: Jerry Kaplan
 affiliation: Stanford Law School
 website: "https://fsi.stanford.edu/people/jerry-kaplan"
-date: 2018-10-26T11:00:00-0800
+date: 2018-10-26T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: "The Devil Made Me Do it: Computational Ethics for Robots"

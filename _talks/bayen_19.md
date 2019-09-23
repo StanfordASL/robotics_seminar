@@ -2,7 +2,7 @@
 speaker: Alexandre Bayen
 affiliation: UC Berkeley
 website: "https://bayen.eecs.berkeley.edu/"
-date: 2019-02-08T11:00:00-0800
+date: 2019-02-08T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: "Lagrangian control at large and local scales in mixed autonomy traffic flow: optimization and deep-RL approaches"

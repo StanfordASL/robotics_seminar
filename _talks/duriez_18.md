@@ -2,7 +2,7 @@
 speaker: Vincent Vanhoucke
 affiliation: Google Brain
 website: "https://research.google.com/pubs/VincentVanhoucke.html"
-date: 2018-02-16T11:00:00-0800
+date: 2018-02-16T11:00:00-0000
 location: Jordan Hall 040
 location-url: "https://campus-map.stanford.edu/?id=01-420&lat=37.42865133749201&lng=-122.17121865473717&zoom=17"
 title: Self-Supervision for Robotic Learning

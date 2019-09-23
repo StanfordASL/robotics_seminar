@@ -2,7 +2,7 @@
 speaker: Dorsa Sadigh
 affiliation: Stanford University
 website: "https://dorsa.fyi/"
-date: 2017-10-05T11:00:00-0800
+date: 2017-10-05T11:00:00-0000
 location: STLC-111
 location-url: "https://campus-map.stanford.edu/?id=07-200&lat=37.43065713&lng=-122.17143743&zoom=17"
 title: No Title

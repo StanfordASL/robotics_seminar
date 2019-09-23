@@ -2,7 +2,7 @@
 speaker: Mark Mueller
 affiliation: UC Berkeley
 website: "https://www.me.berkeley.edu/people/faculty/mark-mueller"
-date: 2019-02-15T11:00:00-0800
+date: 2019-02-15T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: High-Performance Aerial Robotics

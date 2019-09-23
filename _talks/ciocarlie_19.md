@@ -2,7 +2,7 @@
 speaker: Matei Ciocarlie
 affiliation: Columbia University
 website: "https://me.columbia.edu/matei-ciocarlie"
-date: 2019-04-26T11:00:00-0800
+date: 2019-04-26T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: How to Make, Sense, and Make Sense of Contact in Robotic Manipulation

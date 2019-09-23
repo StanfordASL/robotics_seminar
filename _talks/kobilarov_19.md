@@ -2,7 +2,7 @@
 speaker: Marin Kobilarov
 affiliation: Johns Hopkins University
 website: "https://me.jhu.edu/faculty/marin-kobilarov/"
-date: 2019-03-15T11:00:00-0800
+date: 2019-03-15T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: No Title

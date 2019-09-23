@@ -2,7 +2,7 @@
 speaker: Wenzhen Yuan
 affiliation: CMU/Stanford
 website: "http://people.csail.mit.edu/yuan_wz/"
-date: 2018-11-02T11:00:00-0800
+date: 2018-11-02T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: Making Sense of the Physical World with High-resolution Tactile Sensing

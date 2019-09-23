@@ -2,7 +2,7 @@
 speaker: Ken Goldberg
 affiliation: UC Berkeley
 website: "http://goldberg.berkeley.edu/"
-date: 2018-11-30T11:00:00-0800
+date: 2018-11-30T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: "A Grand Challenge for E-Commerce: Optimizing Rate, Reliability, and Range for Robot Bin Picking and Related Projects"

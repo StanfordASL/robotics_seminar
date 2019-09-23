@@ -2,7 +2,7 @@
 speaker: Rick Zhang
 affiliation: Zoox
 website: "https://scholar.google.com/citations?user=YiP5JAUAAAAJ&hl=en"
-date: 2019-04-05T11:00:00-0800
+date: 2019-04-05T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: Practical Challenges of Urban Autonomous Driving

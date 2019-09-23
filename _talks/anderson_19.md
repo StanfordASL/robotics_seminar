@@ -2,7 +2,7 @@
 speaker: Sean Anderson
 affiliation: Boston University
 website: "https://www.bu.edu/eng/profile/sean-andersson/"
-date: 2019-01-25T11:00:00-0800
+date: 2019-01-25T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: Sub-sampling approaches to mapping and imaging

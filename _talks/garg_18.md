@@ -2,7 +2,7 @@
 speaker: Animesh Garg
 affiliation: Stanford University
 website: "http://ai.stanford.edu/~garg/"
-date: 2018-01-26T11:00:00-0800
+date: 2018-01-26T11:00:00-0000
 location: Jordan Hall 040
 location-url: "https://campus-map.stanford.edu/?id=01-420&lat=37.42865133749201&lng=-122.17121865473717&zoom=17"
 title: Towards Generalizable Imitation in Robotics

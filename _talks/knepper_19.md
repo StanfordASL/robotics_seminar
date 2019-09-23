@@ -2,7 +2,7 @@
 speaker: Ross Knepper
 affiliation: Cornell University
 website: "https://www.cs.cornell.edu/~rak/"
-date: 2019-04-12T11:00:00-0800
+date: 2019-04-12T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: Formalizing Teamwork in Human-Robot Interaction

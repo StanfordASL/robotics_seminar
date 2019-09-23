@@ -2,7 +2,7 @@
 speaker: Naira Hovakimyan
 affiliation: UIUC
 website: "http://naira.mechse.illinois.edu/naira-hovakimyan/"
-date: 2018-10-05T11:00:00-0800
+date: 2018-10-05T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: L1 Adaptive Control and Its Transition to Practice

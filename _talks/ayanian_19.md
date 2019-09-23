@@ -2,7 +2,7 @@
 speaker: Nora Ayanian
 affiliation: USC
 website: "http://www-bcf.usc.edu/~ayanian/"
-date: 2019-05-03T11:00:00-0800
+date: 2019-05-03T11:00:00-0000
 location: McCullough 115
 location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
 title: "Crossing the Reality Gap: Coordinating Multirobot Systems in The Physical World"
