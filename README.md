@@ -51,3 +51,35 @@ The website is hosted directly on github via [github pages](https://pages.github
 
 ## Old Website
 The old website can be found [here](https://github.com/StanfordASL/robotics_seminar_archive)
+
+# Checklist
+
+### Monday
+- Email speaker
+   - Confirm speaker attendance
+   - Get title, abstract, bio
+   - Send release form
+   - Ask if there are specific people they would like to meet
+   - If the speaker is funded, give Renee’s contact info for refund
+- Create speaker schedule
+- Send out schedule to faculty
+### Wednesday
+- Order pizza
+- Email mailing list, announcing talk
+- Upload abstract
+- Decide who is introducing speaker
+### Thursday
+- Finalize schedule
+   - Rearrange so that meetings are convenient for speaker: try to minimize travel between buildings, not have large empty gaps
+- Finalize speaker lunch plans
+### Friday Morning
+- Print attendance sheet
+- Meet speaker
+- Bring cables and cart to seminar location
+- If SCPD is not handling A/V, get adapters
+- Send reminder email (especially if speaker may not be popular)
+- Make sure there is a plan for the speaker to get from their last meeting to the location of the seminar
+### Friday Afternoon
+- Make canvas assignment
+- Make sure speaker goes to lunch
+- Serve pizza, clean up
