@@ -25,6 +25,11 @@
           <p>
           {{ talk.abstract }}
           </p>
+          {% if talk.youtube-code %}
+          <div class="youtube">
+            <iframe width="1020" height="630" src="https://www.youtube.com/embed/{{ talk.youtube-code }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          {% endif %}
         </td>
       </tr>
     {% endif %}
