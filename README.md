@@ -21,9 +21,13 @@ To add a talk, just add a new file ending in `.md` in the folder `_talks`. Look 
     location-url: "https://campus-map.stanford.edu/?srch=McCullough+115"
     title: "Talk: Title"
     abstract: "The abstract goes here"
+    youtube-code: "Q_a4YCIzF0A"
     ---
 
 Make sure that fileds containing special characters like ":" are inside quotations like in the example above. The date is in YYYY-MM-DDTHH:MM::SS-0800 format (the last part is the time and -0800 corresponds to the PST time zone).
+
+## Youtube recordings
+Just fill in the `youtube-code` field with the code of the video (look in the URL or press "share" and look at the end of the url displayed there) in the talk `.md` file. Use just the code, not the whole youtube URL. The video will appear below the abstract.
 
 ## Quarters
 A list of quarters with start date and end dates is located in `/_data/quarters.yml`. Feel free to add additional quarters there. You can manage which quarter is displayed on the front page by changing `displayed-quarters` in `_config.yml`. You can also control which quarter is shown in the archive by changing `archived-quarters`.
