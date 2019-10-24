@@ -16,3 +16,16 @@ Sign up for the mailing list: [Click here](https://mailman.stanford.edu/mailman/
     {% endif %}
   {% endfor %}
 </div>
+
+## Sponsors 
+
+The Stanford Robotics and Autonomous Systems Seminar enjoys the support of the following sponsors.
+
+<div class="sponsorslist">
+  <div class="sponsor">
+      <a href="https://forum.stanford.edu/index.php"><img src="{{ "/assets/img/sponsors/computer_forum.jpg" | relative_url }}"/></a>
+  </div>
+  <div class="sponsor">
+      <a href="https://www.tri.global"><img src="{{ "/assets/img/sponsors/tri.jpg" | relative_url }}"/></a>
+  </div>
+</div>
