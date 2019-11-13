@@ -81,7 +81,7 @@ The old website can be found [here](https://github.com/StanfordASL/robotics_semi
 - Meet speaker
 - Bring cables and cart to seminar location
 - If SCPD is not handling A/V, get adapters
-- Send reminder email (especially if speaker may not be popular)
+- Send reminder email
 - Make sure there is a plan for the speaker to get from their last meeting to the location of the seminar
 ### Friday Afternoon
 - Make canvas assignment
