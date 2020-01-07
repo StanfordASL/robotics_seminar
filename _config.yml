@@ -20,7 +20,7 @@ font-awesome:
 ### Below are options you are likely to modify ###
 
 displayed-quarters:
-  - Fall 2019
+  - Winter 2020
 
 archived-quarters:
   - Fall 2017
@@ -29,6 +29,7 @@ archived-quarters:
   - Fall 2018
   - Winter 2019
   - Spring 2019
+  - Fall 2019
 
 current-syllabus: "Syllabus_AA289_fa2019.pdf"
 
