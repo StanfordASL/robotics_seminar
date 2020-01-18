@@ -11,4 +11,5 @@ abstract: "Today’s robotic fleets are increasingly facing two coupled challeng
 
 In this talk, I will present learning-based approaches for robots to improve model performance with cloud offloading, but with minimal systems cost. For real-time inference, I will present a deep reinforcement learning based offloader that decides when a robot should exploit low-latency, on-board computation, or, when highly uncertain, query a more accurate cloud model. Then, for continual learning, I will present an intelligent, on-robot sampler that mines real-time sensory streams for valuable training examples to send to the cloud for model re-training. Using insights from months of field data and experiments on state-of-the-art embedded deep learning hardware, I will show how simple learning algorithms allow robots to significantly transcend their on-board sensing and control performance, but with limited communication cost."
 youtube-code: "1n3GJV7xifc"
+
 ---
