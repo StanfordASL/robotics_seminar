@@ -1,15 +1,11 @@
-- name: Benoit Landry
-  website: "http://www.blandry.xyz/"
-  picture: "benoit-landry.jpg"
-
-- name: James Harrison
-  website: "http://web.stanford.edu/~jh2/"
-  picture: "james-harrison.jpg"
-
-- name: Mengyuan Yan
-  website: "https://geometry.stanford.edu/person.php?id=mengyuan"
-  picture: "mengyuan-yan.jpg"
+- name: Mengxi Li
+  website: "https://ai.stanford.edu/~mengxili/"
+  picture: "mengxi-li.jpg"
+  
+ - name: Shreyas Kousik
+  website: "https://www.shreyaskousik.com/"
+  picture: "shreyas-kousik.png"
     
 - name: Ransalu Senanayake
-  website: "http://www.ransalu.com"
+  website: "https://www.ransalu.com"
   picture: "ransalu-senanayake.png"
