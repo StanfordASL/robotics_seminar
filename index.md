@@ -2,11 +2,13 @@
 layout: default
 ---
 
+<!--
 <div class="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
   <strong>COVID-19</strong><br/><br/>
   Due to the current guidelines set in place by the university and Santa Clara County, we unfortunately have to suspend the Robotics Seminar for the time being. Please check back for updates.
 </div>
+-->
 
 Stanford Robotics and Autonomous Systems Seminar series hosts both invited and internal speakers. The seminar aims to bring the campus-wide robotics community together and provide a platform to overview and foster discussion about the progress and challenges in the various disciplines of Robotics. This quarter, the seminar is also offered to students as a [1 unit course](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=Robotics+and+Autonomous+Systems+Seminar&collapse=). *Note that registration to the class is NOT required in order to attend the talks.*
 
