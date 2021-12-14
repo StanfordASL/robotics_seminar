@@ -1,11 +1,7 @@
-- name: Mengxi Li
-  website: "https://ai.stanford.edu/~mengxili/"
-  picture: "mengxi-li.jpg"
-  
- - name: Shreyas Kousik
-   website: "https://www.shreyaskousik.com/"
-   picture: "shreyas-kousik.png"
-    
-- name: Ransalu Senanayake
-  website: "https://www.ransalu.com"
-  picture: "ransalu-senanayake.png"
+- name: Marco Pavone
+  website: "http://web.stanford.edu/~pavone/"
+  picture: "marco-pavone.jpg"
+
+- name: Jeannette Bohg
+  website: "https://profiles.stanford.edu/jeannette-bohg"
+  picture: "jeannette-bohg.png"
