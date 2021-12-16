@@ -4,7 +4,7 @@ affiliation: Zipline
 website: "https://vraman.github.io/"
 date: 2022-02-04T13:30:00-0000
 location: Skilling Auditorium
-location-url: "https://campus-map.stanford.edu/?id=04-080&lat=37.42787956&lng=-122.17429865&zoom=17&srch=nvidia%20auditorium"
+location-url: "https://campus-map.stanford.edu/?id=04-550&lat=37.42713104&lng=-122.17284632&zoom=17&srch=Skilling%20Auditorium"
 title: "To be confirmed"
 abstract: "To be confirmed"
 youtube-code: "To be confirmed"
