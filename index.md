@@ -5,7 +5,7 @@ layout: default
 <div class="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
   <strong>Start date</strong><br/><br/>
-  The seminar series will be commenced in week 3 of the winter quarter (i.e., on Jan 21). Talks will be in-person.
+  The seminar series will be commenced in week 3 of the winter quarter (i.e., on Jan 21). The talks will be in-person.
 </div>
 
 Stanford Robotics and Autonomous Systems Seminar series hosts both invited and internal speakers. The seminar aims to bring the campus-wide robotics community together and provide a platform to overview and foster discussion about the progress and challenges in the various disciplines of Robotics. This quarter, the seminar is also offered to students as a [1 unit course](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=Robotics+and+Autonomous+Systems+Seminar&collapse=). *Note that registration to the class is NOT required in order to attend the talks.*
