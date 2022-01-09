@@ -1,6 +1,6 @@
 ---
 speaker: Sanjiban Choudhury
-affiliation: Cornell University
+affiliation: Cornell University (currently at Aurora)
 website: "http://www.sanjibanchoudhury.com/"
 date: 2022-01-21T13:30:00-0000
 location: Skilling Auditorium
