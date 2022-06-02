@@ -12,5 +12,5 @@ Meeting this need, Dexterity is a robotics startup that has engineered and deplo
 
 In this talk, we will describe the unique challenges we have encountered in bringing robot manipulation to logistics, including the technical advancements which we have employed to date, spanning engineering disciplines from machine learning, simulation, modeling, algorithms, and control, to robotic hardware & software. We will describe the variety of automation workflows we are executing on which we have found provide the most value to our customers, including palletizing, depalletizing, kitting for fulfillment, and singulation for induction. And we will highlight a number of open problems we have encountered which can motivate future research in the robotics community.
 "
-youtube-code: "TBD"
+youtube-code: "PkqaDCgfZw4"
 ---
