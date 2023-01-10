@@ -10,7 +10,7 @@ layout: default
 
 Stanford Robotics and Autonomous Systems Seminar series hosts both invited and internal speakers. The seminar aims to bring the campus-wide robotics community together and provide a platform to overview and foster discussion about the progress and challenges in the various disciplines of Robotics. This quarter, the seminar is also offered to students as a [1 unit course](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=Robotics+and+Autonomous+Systems+Seminar&collapse=). *Note that registration to the class is NOT required in order to attend the talks.*
 
-The course [syllabus is available here](https://stanfordasl.github.io/robotics_seminar/assets/doc/Syllabus_AA289_fa2022.pdf). Go [here](https://stanfordasl.github.io/robotics_seminar/class/) for more course details.
+The course [syllabus is available here](https://stanfordasl.github.io/robotics_seminar/assets/doc/Syllabus_AA289_wi2023.pdf). Go [here](https://stanfordasl.github.io/robotics_seminar/class/) for more course details.
 
 The seminar is open to Stanford faculty, students, and sponsors.
 
