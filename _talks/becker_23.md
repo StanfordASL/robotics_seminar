@@ -3,7 +3,7 @@ speaker: Jan Becker
 affiliation: Apex.ai
 website: "example.com"
 date: 2023-01-27T12:30:00-0000
-location: NVIDIA Auditorium
+location: Skilling Auditorium
 location-url: "https://campus-map.stanford.edu/?id=04-080"
 title: "TBD"
 abstract: "TBD"
