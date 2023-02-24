@@ -5,7 +5,7 @@ website: "example.com"
 date: 2023-02-24T12:30:00-0000
 location: Skilling Auditorium
 location-url: "https://campus-map.stanford.edu/?id=04-550&lat=37.42697371527761&lng=-122.17280664808126&zoom=18&srch=undefined"
-title: "TBD"
-abstract: "TBD"
+title: "DeXtreme: Transferring Agile In-Hand Manipulation from Simulations to Reality"
+abstract: "Recent work has demonstrated the ability of deep reinforcement learning (RL) algorithms to learn complex robotic behaviours in simulation, including in the domain of multi-fingered manipulation. However, such models can be challenging to transfer to the real world due to the gap between simulation and reality. In this paper, we present our techniques to train a) a policy that can perform robust dexterous manipulation on an anthropomorphic robot hand and b) a robust pose estimator suitable for providing reliable real-time information on the state of the object being manipulated. Our policies are trained to adapt to a wide range of conditions in simulation. Consequently, our vision-based policies significantly outperform the best vision policies in the literature on the same reorientation task and are competitive with policies that are given privileged state information via motion capture systems. Our work reaffirms the possibilities of sim-to-real transfer for dexterous manipulation in diverse kinds of hardware and simulator setups, and in our case, with the Allegro Hand and Isaac Gym GPU-based simulation. Furthermore, it opens up possibilities for researchers to achieve such results with commonly-available, affordable robot hands and cameras. Videos of the resulting policy and supplementary information, including experiments and demos, can be found at https://dextreme.org/"
 youtube-code: "TBD"
 ---
