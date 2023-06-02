@@ -1,0 +1,11 @@
+---
+speaker: Andreea Bobu
+affiliation: Stanford
+website: "https://people.eecs.berkeley.edu/~abobu/"
+date: 2023-06-02T12:30:00-0000
+location: Skilling Auditorium
+location-url: "https://campus-map.stanford.edu/?id=04-550&lat=37.42697371527761&lng=-122.17280664808126&zoom=18&srch=undefined"
+title: "Aligning Robot and Human Representations"
+abstract: "To perform tasks that humans want in the world, robots rely on a representation of salient task features; for example, to hand me a cup of coffee, the robot considers features like efficiency and cup orientation in its behavior. Prior methods try to learn both a representation and a downstream task jointly from data sets of human behavior, but this unfortunately picks up on spurious correlations and results in behaviors that do not generalize. In my view, what’s holding us back from successful human-robot interaction is that human and robot representations are often misaligned: for example, our lab’s assistive robot moved a cup inches away from my face -- which is technically collision-free behavior -- because it lacked an understanding of personal space. Instead of treating people as static data sources, my key insight is that robots must engage with humans in an interactive process for finding a shared representation for more efficient, transparent, and seamless downstream learning. In this talk, I focus on a divide and conquer approach: explicitly focus human input on teaching robots good representations before using them for learning downstream tasks. This means that instead of relying on inputs designed to teach the representation implicitly, we have the opportunity to design human input that is explicitly targeted at teaching the representation and can do so efficiently. I introduce a new type of representation-specific input that lets the human teach new features, I enable robots to reason about the uncertainty in their current representation and automatically detect misalignment, and I propose a novel human behavior model to learn robust behaviors on top of human-aligned representations. By explicitly tackling representation alignment, I believe we can ultimately achieve seamless interaction with humans where each agent truly grasps why the other behaves the way they do."
+youtube-code: "TBD"
+---
