@@ -1,0 +1,11 @@
+---
+speaker: Student Speaker 1 -- Kenneth Hoffmann
+affiliation: Stanford
+website: "https://www.linkedin.com/in/kenneth-hoffmann1/"
+date: 2023-11-03T12:30:00-0000
+location: Skilling Auditorium
+location-url: "https://campus-map.stanford.edu/?id=04-550&lat=37.42697371527761&lng=-122.17280664808126&zoom=18&srch=undefined"
+title: "Design Principles for Bioinspired Visually Guided Aerial Grasping Robots"
+abstract: "Humans have long looked to the skies for inspiration to build the newest generation of flying vehicles. Taking inspiration from the peregrine falcon to pursue and capture prey in flight is particularly intriguing because it can help robot engineers design supermaneuverable aerial robots. Simultaneously, an opportunity exists for developing counter-UAS (unmanned aerial system) aerial robotic systems, aimed at safeguarding sensitive airspaces from rogue drones. During this talk, I will propose design principles for developing bioinspired, visually guided aerial grasping robots. I show how to take inspiration from how falcons pursue aerial prey to design control laws that enable the robot to pursue and capture flying aerial targets. I tie together these two main concepts into an aerial robot with an autonomous system that enables dynamic pursuit and grasping. Following this, I use simulation and experiments to better understand which flight conditions leads to successful aerial grasping. Then, I analyze the robotic systems that enable pursuit and grasping through a systems level failure analysis. Finally, I will address how improvements in hardware, sensing, and planning can pave the way for the future of aerial grasping robots, highlighting the key areas of development required to enhance the performance of this emerging category of robot."
+youtube-code: "TBD"
+---
