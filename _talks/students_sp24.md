@@ -1,7 +1,7 @@
 ---
 speaker: Student Speakers (TBD)
 affiliation: Stanford
-website: TBD"
+website: "TBD"
 date: 2024-05-03T12:30:00-0000
 location: Skilling Auditorium
 location-url: "https://campus-map.stanford.edu/?srch=Skillaud"
