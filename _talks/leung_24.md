@@ -1,0 +1,11 @@
+---
+speaker: Karen Leung
+affiliation: University of Washington
+website: "https://faculty.washington.edu/kymleung/"
+date: 2024-04-12T12:30:00-0000
+location: Skilling Auditorium
+location-url: "https://campus-map.stanford.edu/?srch=Skillaud"
+title: "TBD"
+abstract: "TBD"
+youtube-code: "TBD"
+---
