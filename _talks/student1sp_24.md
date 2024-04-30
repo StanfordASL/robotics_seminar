@@ -2,7 +2,7 @@
 speaker: Student Speaker 1 -- Somrita Banerjee
 affiliation: Stanford
 website: "https://stanfordasl.github.io//people/somrita-banerjee/"
-date: 2024-05-03T12:30:00-0800
+date: 2024-05-03T12:30:00-0000
 location: Skilling Auditorium
 location-url: "https://campus-map.stanford.edu/?srch=Skillaud"
 title: "Learning-enabled Adaptation to Evolving Conditions for Robotics"
