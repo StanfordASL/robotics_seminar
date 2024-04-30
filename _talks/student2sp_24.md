@@ -2,7 +2,7 @@
 speaker: Student Speaker 2 -- Elliot Weiss
 affiliation: Stanford
 website: "https://ddl.stanford.edu/people/elliot-weiss"
-date: 2024-05-03T12:31:00-0000
+date: 2024-05-03T12:31:00-0800
 location: Skilling Auditorium
 location-url: "https://campus-map.stanford.edu/?srch=Skillaud"
 title: "Wearing a VR Headset While Driving to Improve Vehicle Safety"
