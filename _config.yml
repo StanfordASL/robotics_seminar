@@ -20,9 +20,10 @@ font-awesome:
 ### Below are options you are likely to modify ###
 
 displayed-quarters:
-  - Spring 2024
+  - Fall 2024
 
 archived-quarters:
+  - Spring 2024
   - Winter 2024
   - Fall 2023
   - Spring 2023
