@@ -1,10 +1,10 @@
-- name: Marco Pavone
-  website: "http://web.stanford.edu/~pavone/"
-  picture: "marco-pavone.jpg"
-
 - name: Mark R. Cutkosky
   website: "https://profiles.stanford.edu/mark-cutkosky"
   picture: "mark-cutkosky.png"
+
+- name: Marco Pavone
+  website: "http://web.stanford.edu/~pavone/"
+  picture: "marco-pavone.jpg"
 
 - name: Shuran Song
   website: "https://shurans.github.io/"
