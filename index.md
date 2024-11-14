@@ -14,6 +14,7 @@ The course [syllabus is available here]({{ "/assets/doc/" | append: site.current
 
 The seminar is open to Stanford faculty, students, and sponsors.
 
+## Seminar Recordings
 All publically available past seminar recordings can be viewed on our [YouTube Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMeercb-kvGLUrOq4HR6BZD). 
 
 ## Get Email Notifications
