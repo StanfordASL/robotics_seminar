@@ -14,5 +14,5 @@ Does the data induce capacity control in deep learning? Rubing Yang, Jialin Mao,
 Deep Reference Priors: What is the best way to pretrain a model? Yansong Gao, Rahul Ramesh, and Pratik Chaudhari. [ICML '22] https://arxiv.org/abs/2202.00187
 A picture of the space of typical learnable tasks. Rahul Ramesh, Jialin Mao, Itay Griniasty, Rubing Yang, Han Kheng Teoh, Mark Transtrum, James P. Sethna, and Pratik Chaudhari. [ICML ’23]. https://arxiv.org/abs/2210.17011
 The Training Process of Many Deep Networks Explores the Same Low-Dimensional Manifold. Jialin Mao, Itay Griniasty, Han Kheng Teoh, Rahul Ramesh, Rubing Yang, Mark K. Transtrum, James P. Sethna, Pratik Chaudhari. 2023. https://arxiv.org/abs/2305.01604"
-youtube-code: "TBD"
+youtube-code: "ZD2cL-QoI5g"
 ---
