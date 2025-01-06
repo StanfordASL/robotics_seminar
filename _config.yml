@@ -20,9 +20,10 @@ font-awesome:
 ### Below are options you are likely to modify ###
 
 displayed-quarters:
-  - Fall 2024
+  - Winter 2025
 
 archived-quarters:
+  - Fall 2024
   - Spring 2024
   - Winter 2024
   - Fall 2023
@@ -40,6 +41,6 @@ archived-quarters:
   - Spring 2018
   - Fall 2017
 
-current-syllabus: "Syllabus_ENGR319_fa2024.pdf"
+current-syllabus: "Syllabus_ENGR319_wi2025.pdf"
 
 ##########
