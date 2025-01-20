@@ -1,7 +1,7 @@
 ---
 speaker: Student Speaker - Daniele Gammelli
 affiliation: Stanford
-website: "[https://danielegammelli.github.io/]"
+website: "https://danielegammelli.github.io/"
 date: 2025-01-17T15:30:00-0000
 location: Gates B03
 location-url: "https://campus-map.stanford.edu/?srch=GatesB03"
