@@ -1,7 +1,7 @@
 ---
 speaker: Student Speaker - Yifan Hou
 affiliation: Stanford
-website: "[https://yifan-hou.github.io/]"
+website: "https://yifan-hou.github.io/"
 date: 2025-01-17T15:00:00-0000
 location: Gates B03
 location-url: "https://campus-map.stanford.edu/?srch=GatesB03"
