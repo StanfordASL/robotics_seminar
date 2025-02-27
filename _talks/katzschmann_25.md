@@ -1,7 +1,7 @@
 ---
 speaker: Robert Katzschmann
 affiliation: ETH Zurich
-website: "[https://srl.ethz.ch/the-group/prof-robert-katzschmann.html]"
+website: "https://srl.ethz.ch/the-group/prof-robert-katzschmann.html"
 date: 2025-01-24T15:00:00-0000
 location: Gates B03
 location-url: "https://campus-map.stanford.edu/?srch=GatesB01"
