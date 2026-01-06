@@ -1,0 +1,11 @@
+---
+speaker: Ahmed Qureshi
+affiliation: Purdue
+website: "https://qureshiahmed.github.io/"
+date: 2026-01-09T15:00:00-0000
+location: Nvidia Auditorium
+location-url: "https://campus-map.stanford.edu/?id=04-080"
+title: "Robot Motion Learning with Physics-Based PDE Priors"
+abstract: "This talk explores how partial differential equation (PDE)–based physics priors can provide a foundation for scalable and generalizable algorithms in robot motion learning. Rather than searching over discrete graphs or samples, it formulates and learns the solution to the motion-planning problem as a continuous value function governed by Hamilton–Jacobi (HJ) PDEs. These methods enable self-supervised value-function learning without reliance on expert trajectories or trial-and-error interaction. The learned value functions yield fast inference of motion plans and demonstrate strong scalability across complex, high-dimensional, and constraint-rich navigation and manipulation tasks. The talk also introduces an HJ PDE–derived mapping representation that unifies perception and planning: unlike occupancy grids or signed distance fields, it encodes motion-feasible geometry in a form naturally structured for continuous decision-making. Together, these developments outline a unified, numerically grounded framework for robot motion planning and control through the lens of physics-informed learning."
+# youtube-code: "TBD"
+---
