@@ -15,7 +15,7 @@ The course [syllabus is available here]({{ "/assets/doc/" | append: site.current
 The seminar is open to Stanford faculty, students, and sponsors.
 
 ## Attedence Form
-For students taking the class, please fill out the attendance form: [https://tinyurl.com/robotsem-fall-25](https://tinyurl.com/robotsem-fall-2025) when attending the seminar to receive credit. You need to fill out 7 attedence to receive credit for the quarter, or make up for it by submitting late paragraphs on the talks you missed via Canvas.
+For students taking the class, please fill out the attendance form: [https://tinyurl.com/robosem-win-26](https://tinyurl.com/robosem-win-26) when attending the seminar to receive credit. You need to fill out 7 attedence to receive credit for the quarter, or make up for it by submitting late paragraphs on the talks you missed via Canvas.
 
 ## Seminar Youtube Recordings
 All publically available past seminar recordings can be viewed on our [YouTube Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMeercb-kvGLUrOq4HR6BZD). Registered students can access all talk recordings on Canvas.
