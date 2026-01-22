@@ -5,7 +5,7 @@ website: "https://engineering.virginia.edu/faculty/madhur-behl"
 date: 2026-01-30T15:00:00-0000
 location: Nvidia Auditorium
 location-url: "https://campus-map.stanford.edu/?id=04-080"
-title: "TBD"
-abstract: "TBD"
+title: "Bringing AI Up To Speed"
+abstract: "Despite decades of advancement, autonomous driving systems have not met the high expectations set by many. What’s missing is physical intelligence - the ability of AI systems to reason, react, and adapt in real time, while operating safely and effectively within the laws of physics. In this talk, I will first examine which hurdles have turned out to be more formidable than expected, and share our research on how to refine testing methodologies to advance the safety of autonomous vehicles. I will then show how high-speed autonomous racing provides a unique proving ground to test the boundaries of AI’s physical capabilities. Leveraging more than a decade of experience in high-speed autonomous racing, particularly with the full-scale Cavalier Autonomous Racing Indy car and the F1tenth platform, I will demonstrate how racing at high speeds and in close proximity to other vehicles exposes unsolved challenges in perception, planning, and control. I will recount our journey from the lab to lap times, and the rigorous engineering required to build a full-scale autonomous racecar from scratch. Despite progress, autonomous racing has yet to match the skill of expert human drivers or master the complexity of dense, multi-car competition; indicating that we still have several more laps to go on our path toward artificial general “driving” intelligence."
 # youtube-code: "TBD"
 ---
