@@ -5,7 +5,7 @@ website: "https://me.berkeley.edu/people/koushil-sreenath/"
 date: 2026-02-06T15:00:00-0000
 location: Nvidia Auditorium
 location-url: "https://campus-map.stanford.edu/?id=04-080"
-title: "TBD"
-abstract: "TBD"
+title: "Safety, Representations, and Generative Learning for Dynamical Systems"
+abstract: "This talk explores the interplay between model-based guarantees and learning-based flexibility in the control of dynamical systems. I begin with safety-critical control using control barrier functions (CBFs), highlighting that while CBFs enforce state constraints, they may induce unstable internal dynamics that renders the system "unsafe"!  To address this, I introduce conditions under which CBF-based safety filters also ensure boundedness of the full system state. I then transition to learning representations of hybrid dynamical systems. I present a framework that learns continuous neural representations by exploiting the geometric structure induced by guards and resets, enabling accurate flow prediction of hybrid systems without explicit mode switching. Finally, I discuss generative learning approaches for control. Through applications to legged robotics, I illustrate how a generative sensorimotor model can generalize beyond the training distribution of pure locomotion and manipulation to achieve whole-body control. Together, these results highlight how structure, geometry, and learning can bridge safety guarantees and expressive control for complex dynamical systems."
 # youtube-code: "TBD"
 ---
