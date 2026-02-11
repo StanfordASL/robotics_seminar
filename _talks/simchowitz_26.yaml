@@ -5,7 +5,7 @@ website: "https://msimchowitz.github.io/"
 date: 2026-02-27T15:00:00-0000
 location: Nvidia Auditorium
 location-url: "https://campus-map.stanford.edu/?id=04-080"
-title: "TBD"
-abstract: "TBD"
+title: "Generative Control, Action Chunking, and Moravec’s Paradox"
+abstract: "Moravec’s Paradox observes that AI systems have struggled far more with learning physical actions than symbolic reasoning. Yet just recently, there has been a tremendous increase in the capability of AI-driven robotic systems, reminiscent  of the early improvements in language modeling capabilities a few years ago.  In this talk, we provide mathematical evidence that learning in continuous-control settings, like robotics, can be exponentially more challenging than in discrete settings, like language, unless certain key algorithmic design choices are made - effectively, mathematical evidence for Moravec’s claim. We then show that two of the key innovations in modern robot learning - action chunking, and the use of generative models, such as diffusion models, to parametrize robot actions - can be interpreted as directly mitigating the mechanisms underlying this difficulty. Our perspective runs contrary to many popular justifications for the two methods, such as capturing multi-modality present in mixed-quality training data.  Finally, if time permits, we will describe a new family of interventions, at the level of deep learning optimization, that provide yet another lever for addressing  the same challenges."
 # youtube-code: "TBD"
 ---
