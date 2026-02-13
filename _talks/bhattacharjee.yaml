@@ -1,0 +1,11 @@
+---
+speaker: Tapomayukh Bhattacharjee
+affiliation: Cornell
+website: "https://sites.google.com/site/tapomayukh"
+date: 2026-02-13T15:00:00-0000
+location: Nvidia Auditorium
+location-url: "https://campus-map.stanford.edu/?id=04-080"
+title: "Physical Intelligence for Physical Care: Towards Stakeholder-Informed Caregiving Robots in the Real World"
+abstract: "How can we build robots that meaningfully assist people with mobility limitations in their daily lives? To support complex caregiving tasks such as robot-assisted feeding, transferring, bathing, and meal preparation, robots must physically interact with people and objects in dynamic, unstructured environments. In this talk, I will present an overview of various projects from my lab that showcase fundamental advances in the field of physical robotic caregiving. I will highlight how we design stakeholder-informed systems, from simulation platforms to real-world deployments, by integrating multimodal perception, user feedback, and adaptive algorithms. Together, these efforts move us closer to creating caregiving robots that are not only technically capable, but are also responsive to the real needs of people in care settings."
+# youtube-code: "TBD"
+---
