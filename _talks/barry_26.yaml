@@ -5,7 +5,7 @@ website: "https://rai-inst.com/"
 date: 2026-03-06T15:00:00-0000
 location: Nvidia Auditorium
 location-url: "https://campus-map.stanford.edu/?id=04-080"
-title: "TBD"
-abstract: "TBD"
+title: "Watch, Understand, Do"
+abstract: "One of the biggest questions in robotics today is how to simply and easily teach robots new tasks.  In this talk, we explore whether we can teach robots the same way we teach humans: by having the robots watch humans execute the tasks.  We show that despite the huge sensing and morphology gap between robots and humans, robots can understand skill sequencing, object detection, and task geometry just from watching human demonstrations."
 # youtube-code: "TBD"
 ---
