@@ -1,5 +1,5 @@
 ---
-speaker: Rachel Holiday
+speaker: Rachel Holladay
 affiliation: UPenn
 website: ""
 date: 2026-04-17T15:00:00-0000
