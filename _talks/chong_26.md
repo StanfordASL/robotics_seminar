@@ -1,11 +1,11 @@
 ---
 speaker: Baxi Chong
 affiliation: Penn State
-website: ""
+website: "https://sites.gatech.edu/baxichong/"
 date: 2026-04-03T15:00:00-0000
 location: Gates B03
 location-url: "https://campus-map.stanford.edu/?srch=GatesB03"
-title: "TBD"
-abstract: "TBD"
+title: "Mechanical intelligence in locomotion: from information theory to multi-legged robots"
+abstract: "Locomotion in complex environments (e.g., rubble, leaf litter, granular media) is essential to mobile engineered systems such as robots. Effective locomotion requires complex control strategies to interact with terrain heterogeneity. Computational intelligence (CI), which typically includes rapid terrain sensing and active feedback controls, is a widely recognized component in locomotion strategy. Alternatively, mechanical intelligence (MI) - passive response to environmental perturbation governed by physics laws or mechanical constraints - is an important yet less studied component. In this talk, I will discuss "why" and "how" MI can contribute to effective locomotion using the examples of multi-legged robots (redundantly segmented bodies with simple legs). For the "why," I will quantify a specific MI that emerges from leg redundancy. By modeling locomotion as a stochastic process (analogous to signal transmission over noisy channels), I will show that MI, without any CI, is sufficient to generate reliable and effective locomotion. To explore the "how," I will take a quantitative analogy to signal transmission algorithms (e.g., error correcting/detecting codes) and propose a co-design coding scheme for multi-legged locomotion. Specifically, my talk will cover that (i) additional legs, with higher control dimensions, can enable a broader spectrum of capabilities, including load carrying/pulling, sidewinding, rolling, and obstacle-climbing; (ii) the inclusion of CI (feedback controls) can enhance multi-legged locomotion speed while preserving the feature of robustness; and (iii) CI might reduce the number of redundant legs required to navigate a particular terrain. Finally, I will discuss the coordination and competition between MI and CI in a broader framework termed Embedded Intelligence (EI) and illustrate the applications of MI-dominated systems in fields like search-and-rescue, agriculture, and the development of soft, micro, and modular robots."
 # youtube-code: "TBD"
 ---
