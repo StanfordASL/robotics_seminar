@@ -1,6 +1,6 @@
 ---
-speaker: Rachel Holladay
-affiliation: UPenn
+speaker: Karl Pertsch
+affiliation: Physical Intelligence
 website: ""
 date: 2026-04-17T15:00:00-0000
 location: Gates B03
