@@ -1,14 +1,14 @@
-- name: Rohan Sinha
-  website: "https://stanfordasl.github.io/people/rohan-sinha/"
-  picture: "rohan-sinha.png"
+- name: Matthew Foutter
+  website: "https://stanfordasl.github.io/people/matt-foutter/"
+  picture: "matt-foutter.jpg"
+
+- name: Hugo Buurmeijer
+  website: "https://stanfordasl.github.io/people/hugo-buurmeijer/"
+  picture: "hugo-buurmeijer.jpg"
 
 - name: Hao Li
   website: "https://haolirobo.github.io/"
   picture: "hao_li.jpg"
-
-- name: Yifan Hou
-  website: "https://profiles.stanford.edu/yifan-hou"
-  picture: "yifan_hou.png"
 
 - name: Dian Wang
   website: "https://www.dianwang.io/"
