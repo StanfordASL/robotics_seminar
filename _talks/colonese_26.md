@@ -1,5 +1,5 @@
 ---
-speaker: Nick Colonese
+speaker: Nicholas Colonnese
 affiliation: Meta
 website: "https://ncolonnese.com"
 date: 2026-05-29T15:00:00-0000
