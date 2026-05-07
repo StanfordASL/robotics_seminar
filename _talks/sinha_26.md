@@ -1,6 +1,6 @@
 ---
-speaker: Howie Choset
-affiliation: CMU
+speaker: Rohan Sinha
+affiliation: Stanford
 website: ""
 date: 2026-05-15T15:00:00-0000
 location: Gates B03
