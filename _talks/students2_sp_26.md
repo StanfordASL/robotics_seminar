@@ -1,8 +1,8 @@
 ---
 speaker: Changhao Wang
 affiliation: Stanford
-website: ""
-date: 2026-05-15T15:00:00-0000
+website: "https://changhaowang.github.io/"
+date: 2026-05-15T15:30:00-0000
 location: Gates B03
 location-url: "https://campus-map.stanford.edu/?srch=GatesB03"
 title: "Learning Dexterity from Humans"
