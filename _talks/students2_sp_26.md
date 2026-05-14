@@ -1,5 +1,5 @@
 ---
-speaker: Changhao Wang
+speaker: Student Speaker - Changhao Wang
 affiliation: Stanford
 website: "https://changhaowang.github.io/"
 date: 2026-05-15T15:30:00-0000
