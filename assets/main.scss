@@ -36,8 +36,23 @@
   padding-top: 20px;
 }
 
+// Fixed layout: column widths come from the <colgroup> only, so the
+// colspan="6" abstract row (long text + video) cannot change them when toggled.
 .quarter-table {
+  table-layout: fixed;
+  width: 100%;
   margin-bottom: 50px;
+
+  th, td {
+    overflow-wrap: break-word;
+  }
+
+  .col-date        { width: 11%; }
+  .col-speaker     { width: 16%; }
+  .col-affiliation { width: 17%; }
+  .col-title       { width: 34%; }
+  .col-location    { width: 13%; }
+  .col-time        { width: 9%; }
 }
 
 .quarter-header {
@@ -46,14 +61,6 @@
 
 .talk-abstract-content > p {
   text-align: justify;
-}
-
-.talk-speaker {
-  min-width: 150px;
-}
-
-.talk-date {
-  min-width: 80px;
 }
 
 .profile-row {
@@ -142,7 +149,14 @@ i {
 .youtube {
   padding-top: 20px;
   padding-bottom: 20px;
-  text-align: center; 
+  text-align: center;
+
+  // Scale the embed to the cell instead of forcing the table wider.
+  iframe {
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 1020 / 630;
+  }
 }
 
 .alert {
